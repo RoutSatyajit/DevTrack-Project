@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+Devtrackvenv/
+venv/
+.venv/
+env/
+.env
+db.sqlite3
